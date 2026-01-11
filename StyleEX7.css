@@ -1,0 +1,25 @@
+#background {
+
+    background-image: url("https://cdn.hswstatic.com/gif/why-is-sky-blue.jpg");
+    width: 600px;
+    height: 600px;
+}
+
+#box1 {
+
+    background-color: yellow;
+    opacity: 30%;
+    width: 50%;
+}
+
+#box2 {
+
+    background-color: purple;
+    width: 50%;
+}
+
+h2 {
+
+    margin: 0px;
+
+}
