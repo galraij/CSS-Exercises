@@ -1,0 +1,54 @@
+.parent {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background-color: red;
+
+}
+
+
+
+#child1 {
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    right: 0px;
+
+
+
+
+}
+
+#child2 {
+
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+
+
+}
+
+#child3 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    bottom: 0px;
+    right: 0px;
+
+
+}
+
+#child4 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    bottom: 0px;
+    left: 0px;
+
+
+}

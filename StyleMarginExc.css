@@ -1,0 +1,29 @@
+.parent {
+
+    display: inline-block;
+    background-color: red;
+    padding: 10px;
+}
+
+
+
+#child1 {
+
+
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+
+
+}
+
+#child2 {
+
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+
+
+}
