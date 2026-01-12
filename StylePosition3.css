@@ -1,0 +1,75 @@
+.parent {
+    position: absolute;
+    width: 450px;
+    height: 200px;
+    background-color: rgb(199, 116, 199);
+}
+
+.text {
+
+    position: absolute;
+
+}
+
+#money {
+
+    padding: 10px;
+    font-size: larger;
+}
+
+#time {
+
+    padding: 10px;
+    right: 0px;
+    bottom: 0px;
+    font-size: larger;
+}
+
+.bar {
+    position: absolute;
+    width: 30px;
+    background-color: rgb(161, 163, 165);
+
+}
+
+#one {
+    position: absolute;
+    height: 80px;
+    left: 30px;
+    bottom: 0px;
+}
+
+#two {
+    position: absolute;
+    height: 110px;
+    left: 90px;
+    bottom: 0px;
+}
+
+#three {
+    position: absolute;
+    height: 150px;
+    left: 150px;
+    bottom: 0px;
+}
+
+#four {
+    position: absolute;
+    height: 130px;
+    left: 210px;
+    bottom: 0px;
+}
+
+#five {
+    position: absolute;
+    height: 110px;
+    left: 270px;
+    bottom: 0px;
+}
+
+#six {
+    position: absolute;
+    height: 100px;
+    left: calc(270px + 60px);
+    bottom: 0px;
+}
