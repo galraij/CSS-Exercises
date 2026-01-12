@@ -1,28 +1,43 @@
 .parent {
     position: absolute;
+
     width: 50%;
-    height: 50%;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-yH6Nm0GliKTtaBXlU-4ON1qe4O5-gDGz5wTv6Kc_8g8rKzY");
+    /* height: 50%; */
+
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-yH6Nm0GliKTtaBXlU-4ON1qe4O5-gDGz5wTv6Kc_8g8rKzY");
     background-repeat: no-repeat;
     margin: auto;
-    background-size: 100% 100%;
+    background-size: 100% 100%; */
 }
 
 #child1 {
     position: absolute;
     right: 0px;
+    top: 0px;
 }
 
-#child2 {}
+#child2 {
+    position: absolute;
+    top: 0px;
+    left: 0;
+
+}
 
 #child3 {
     position: absolute;
     bottom: 0px;
     right: 0px;
+
 }
 
 #child4 {
     position: absolute;
     bottom: 0px;
     left: 0px;
+}
+
+div.parent>img {
+
+    width: 100%;
+
 }
